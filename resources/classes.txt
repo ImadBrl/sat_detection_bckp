@@ -1,0 +1,107 @@
+bird
+flagpole
+suitcase
+car
+ball
+bench
+nail
+mobile phone
+bathtub
+kite
+door
+frisbee
+flowerpot
+airplane
+surfboard
+hinge
+window
+umbrella
+painting
+flower
+curtain
+street light
+houseplant
+bed
+door handle
+plastic bag
+book
+pay phone
+stairs
+crossbar
+towel
+cattle
+person
+sheep
+log
+coin
+mushroom
+christmas tree
+footwear
+animal
+power plugs and sockets
+tarp
+ladder
+vent
+flag
+envelope
+window blind
+toilet paper
+stop sign
+adhesive tape
+tennis racket
+insect
+trash bin/can
+fish
+clock
+backpack
+toothbrush
+banner
+house
+refrigerator
+box
+hook
+chair
+land vehicle
+broccoli
+apple
+barrel
+trousers
+truck
+wheel
+elephant
+manhole
+train
+tag
+corded phone
+baseball bat
+plate
+toilet
+palm tree
+maple
+street sign
+bicycle
+scissors
+cat
+boat
+wheelchair
+vehicle
+support hose
+taillight
+willow
+air conditioner
+swimming pool
+sink
+traffic sign
+bowl
+cigar
+car tire
+crate
+mechanical fan
+television
+starfish
+drinking straw
+windmill
+handbag
+mirror
+blanket
+sandal

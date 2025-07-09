@@ -1,0 +1,1444 @@
+Tuiles (3200px, 0px) : 1 book(s).
+Tuiles (3520px, 0px) : 1 book(s).
+Tuiles (3840px, 0px) : 1 airplane(s).
+Tuiles (4160px, 0px) : 1 kite(s).
+Tuiles (4480px, 0px) : 1 kite(s).
+Tuiles (4800px, 0px) : 1 kite(s).
+Tuiles (5120px, 0px) : 1 book(s).
+Tuiles (5440px, 0px) : 1 book(s).
+Tuiles (5760px, 0px) : 1 book(s).
+Tuiles (6080px, 0px) : 1 book(s).
+Tuiles (6400px, 0px) : 1 window(s).
+Tuiles (6720px, 0px) : 1 houseplant(s).
+Tuiles (7040px, 0px) : 1 toilet(s).
+Tuiles (7360px, 0px) : 1 window(s).
+Tuiles (7680px, 0px) : 1 television(s).
+Tuiles (8000px, 0px) : 1 insect(s).
+Tuiles (8320px, 0px) : 1 umbrella(s).
+Tuiles (8640px, 0px) : 1 toilet(s).
+Tuiles (8960px, 0px) : 1 umbrella(s).
+Tuiles (9280px, 0px) : 1 surfboard(s).
+Tuiles (9600px, 0px) : 1 surfboard(s).
+Tuiles (9920px, 0px) : 1 surfboard(s).
+Tuiles (10240px, 10240px) : 1 houseplant(s).
+Tuiles (10560px, 10240px) : 1 houseplant(s).
+Tuiles (10880px, 10240px) : 1 houseplant(s).
+Tuiles (11200px, 10240px) : 1 window(s).
+Tuiles (1280px, 10240px) : 1 ball(s).
+Tuiles (1600px, 10240px) : 1 flower(s).
+Tuiles (1920px, 10240px) : 1 willow(s).
+Tuiles (2240px, 10240px) : 1 willow(s).
+Tuiles (2560px, 10240px) : 1 car(s).
+Tuiles (2880px, 10240px) : 1 car(s), 1 wheelchair(s).
+Tuiles (3200px, 10240px) : 3 wheelchair(s).
+Tuiles (3520px, 10240px) : 3 wheelchair(s).
+Tuiles (3840px, 10240px) : 1 vehicle(s).
+Tuiles (4160px, 10240px) : 1 vehicle(s).
+Tuiles (4480px, 10240px) : 1 boat(s).
+Tuiles (4800px, 10240px) : 1 kite(s).
+Tuiles (5120px, 10240px) : 1 envelope(s).
+Tuiles (5440px, 10240px) : 1 envelope(s).
+Tuiles (5760px, 10240px) : 1 painting(s).
+Tuiles (6080px, 10240px) : 1 envelope(s).
+Tuiles (6400px, 10240px) : 1 envelope(s).
+Tuiles (6720px, 10240px) : 1 envelope(s).
+Tuiles (7040px, 10240px) : 1 envelope(s).
+Tuiles (7360px, 10240px) : 1 envelope(s).
+Tuiles (7680px, 10240px) : 1 envelope(s).
+Tuiles (8000px, 10240px) : 1 kite(s).
+Tuiles (8320px, 10240px) : 1 envelope(s).
+Tuiles (8640px, 10240px) : 1 envelope(s).
+Tuiles (8960px, 10240px) : 1 surfboard(s).
+Tuiles (9280px, 10240px) : 1 ball(s).
+Tuiles (9600px, 10240px) : 1 log(s).
+Tuiles (9920px, 10240px) : 1 log(s).
+Tuiles (10240px, 10560px) : 1 flower(s).
+Tuiles (10560px, 10560px) : 1 houseplant(s).
+Tuiles (10880px, 10560px) : 1 door(s).
+Tuiles (11200px, 10560px) : 1 window(s).
+Tuiles (1600px, 10560px) : 1 palm tree(s).
+Tuiles (1920px, 10560px) : 1 bird(s).
+Tuiles (2240px, 10560px) : 1 car(s).
+Tuiles (2560px, 10560px) : 1 car(s), 1 wheel(s).
+Tuiles (2880px, 10560px) : 1 car(s), 1 wheel(s).
+Tuiles (3200px, 10560px) : 1 bicycle(s).
+Tuiles (3520px, 10560px) : 3 wheelchair(s).
+Tuiles (3840px, 10560px) : 1 wheelchair(s).
+Tuiles (4160px, 10560px) : 1 vehicle(s).
+Tuiles (4480px, 10560px) : 1 bed(s).
+Tuiles (4800px, 10560px) : 1 box(s).
+Tuiles (5120px, 10560px) : 2 car(s).
+Tuiles (5440px, 10560px) : 3 car(s).
+Tuiles (5760px, 10560px) : 1 sandal(s).
+Tuiles (6080px, 10560px) : 1 bed(s).
+Tuiles (6400px, 10560px) : 1 bed(s).
+Tuiles (6720px, 10560px) : 1 bed(s).
+Tuiles (7040px, 10560px) : 1 bed(s).
+Tuiles (7360px, 10560px) : 1 bed(s).
+Tuiles (7680px, 10560px) : 1 bird(s).
+Tuiles (8000px, 10560px) : 1 kite(s).
+Tuiles (8320px, 10560px) : 1 fish(s).
+Tuiles (8640px, 10560px) : 1 surfboard(s).
+Tuiles (8960px, 10560px) : 1 towel(s).
+Tuiles (9280px, 10560px) : 1 plastic bag(s).
+Tuiles (9600px, 10560px) : 1 bird(s).
+Tuiles (9920px, 10560px) : 1 bird(s).
+Tuiles (10240px, 10880px) : 1 flower(s).
+Tuiles (10560px, 10880px) : 1 houseplant(s).
+Tuiles (10880px, 10880px) : 1 surfboard(s).
+Tuiles (11200px, 10880px) : 3 window(s).
+Tuiles (1600px, 10880px) : 1 palm tree(s).
+Tuiles (1920px, 10880px) : 1 houseplant(s).
+Tuiles (2240px, 10880px) : 1 car(s).
+Tuiles (2560px, 10880px) : 1 car(s).
+Tuiles (2880px, 10880px) : 1 car(s), 1 land vehicle(s).
+Tuiles (3200px, 10880px) : 1 car(s), 1 mobile phone(s).
+Tuiles (3520px, 10880px) : 1 car(s), 1 mobile phone(s).
+Tuiles (3840px, 10880px) : 1 window(s).
+Tuiles (4160px, 10880px) : 1 window(s).
+Tuiles (4480px, 10880px) : 1 mobile phone(s).
+Tuiles (4800px, 10880px) : 1 mobile phone(s).
+Tuiles (5120px, 10880px) : 4 car(s).
+Tuiles (5440px, 10880px) : 4 car(s), 4 chair(s).
+Tuiles (5760px, 10880px) : 6 chair(s).
+Tuiles (6080px, 10880px) : 1 surfboard(s).
+Tuiles (6400px, 10880px) : 1 bed(s).
+Tuiles (6720px, 10880px) : 1 person(s).
+Tuiles (7040px, 10880px) : 1 bird(s).
+Tuiles (7360px, 10880px) : 1 bird(s).
+Tuiles (7680px, 10880px) : 1 surfboard(s).
+Tuiles (8000px, 10880px) : 1 surfboard(s).
+Tuiles (8320px, 10880px) : 1 surfboard(s).
+Tuiles (8640px, 10880px) : 1 surfboard(s).
+Tuiles (8960px, 10880px) : 1 towel(s).
+Tuiles (9280px, 10880px) : 1 towel(s).
+Tuiles (9600px, 10880px) : 1 bird(s).
+Tuiles (9920px, 10880px) : 1 bird(s).
+Tuiles (10240px, 11200px) : 1 flower(s).
+Tuiles (10560px, 11200px) : 1 boat(s).
+Tuiles (10880px, 11200px) : 1 houseplant(s).
+Tuiles (11200px, 11200px) : 1 house(s), 1 window(s).
+Tuiles (1920px, 11200px) : 2 houseplant(s).
+Tuiles (2240px, 11200px) : 1 houseplant(s).
+Tuiles (2560px, 11200px) : 1 vehicle(s).
+Tuiles (2880px, 11200px) : 1 land vehicle(s).
+Tuiles (3200px, 11200px) : 4 car(s).
+Tuiles (3520px, 11200px) : 3 car(s), 1 mobile phone(s).
+Tuiles (3840px, 11200px) : 1 car(s).
+Tuiles (4160px, 11200px) : 1 window(s).
+Tuiles (4480px, 11200px) : 1 street sign(s).
+Tuiles (4800px, 11200px) : 1 traffic sign(s).
+Tuiles (5120px, 11200px) : 1 air conditioner(s).
+Tuiles (5440px, 11200px) : 4 chair(s), 1 corded phone(s), 1 power plugs and sockets(s), 1 refrigerator(s).
+Tuiles (5760px, 11200px) : 5 chair(s), 1 ladder(s).
+Tuiles (6080px, 11200px) : 2 chair(s), 1 ladder(s).
+Tuiles (6400px, 11200px) : 1 chair(s).
+Tuiles (6720px, 11200px) : 2 painting(s).
+Tuiles (7040px, 11200px) : 1 bird(s).
+Tuiles (7360px, 11200px) : 1 bird(s).
+Tuiles (7680px, 11200px) : 1 frisbee(s).
+Tuiles (8000px, 11200px) : 1 frisbee(s).
+Tuiles (8320px, 11200px) : 1 surfboard(s).
+Tuiles (8640px, 11200px) : 1 sheep(s).
+Tuiles (8960px, 11200px) : 1 animal(s).
+Tuiles (9280px, 11200px) : 1 sheep(s).
+Tuiles (9600px, 11200px) : 1 log(s).
+Tuiles (9920px, 11200px) : 1 flower(s).
+Tuiles (10240px, 11520px) : 1 vent(s).
+Tuiles (10560px, 11520px) : 1 boat(s).
+Tuiles (10880px, 11520px) : 1 houseplant(s).
+Tuiles (2240px, 11520px) : 1 bird(s).
+Tuiles (2560px, 11520px) : 1 bird(s).
+Tuiles (2880px, 11520px) : 1 traffic sign(s).
+Tuiles (3200px, 11520px) : 1 land vehicle(s).
+Tuiles (3520px, 11520px) : 3 car(s).
+Tuiles (3840px, 11520px) : 1 car(s).
+Tuiles (4160px, 11520px) : 1 bicycle(s).
+Tuiles (4480px, 11520px) : 1 bicycle(s).
+Tuiles (4800px, 11520px) : 1 bicycle(s).
+Tuiles (5120px, 11520px) : 1 bicycle(s), 1 street light(s).
+Tuiles (5440px, 11520px) : 1 bicycle(s).
+Tuiles (5760px, 11520px) : 1 chair(s), 1 mechanical fan(s).
+Tuiles (6080px, 11520px) : 2 chair(s), 1 ladder(s).
+Tuiles (6400px, 11520px) : 1 chair(s), 4 umbrella(s).
+Tuiles (6720px, 11520px) : 2 mobile phone(s).
+Tuiles (7040px, 11520px) : 1 book(s).
+Tuiles (7360px, 11520px) : 1 surfboard(s).
+Tuiles (7680px, 11520px) : 1 frisbee(s).
+Tuiles (8000px, 11520px) : 1 frisbee(s).
+Tuiles (8320px, 11520px) : 1 sheep(s).
+Tuiles (8640px, 11520px) : 1 flower(s).
+Tuiles (8960px, 11520px) : 1 flower(s).
+Tuiles (9280px, 11520px) : 1 flower(s).
+Tuiles (9600px, 11520px) : 1 flower(s).
+Tuiles (9920px, 11520px) : 1 flower(s).
+Tuiles (10240px, 11840px) : 1 vent(s).
+Tuiles (10560px, 11840px) : 1 ball(s).
+Tuiles (2560px, 11840px) : 1 bird(s).
+Tuiles (2880px, 11840px) : 1 frisbee(s).
+Tuiles (3200px, 11840px) : 1 bird(s).
+Tuiles (3520px, 11840px) : 1 bird(s).
+Tuiles (3840px, 11840px) : 1 house(s).
+Tuiles (4160px, 11840px) : 1 bicycle(s).
+Tuiles (4480px, 11840px) : 1 bicycle(s).
+Tuiles (4800px, 11840px) : 1 footwear(s).
+Tuiles (5120px, 11840px) : 1 bicycle(s), 1 street light(s).
+Tuiles (5440px, 11840px) : 1 bicycle(s), 1 street light(s).
+Tuiles (5760px, 11840px) : 1 street sign(s).
+Tuiles (6080px, 11840px) : 4 kite(s).
+Tuiles (6400px, 11840px) : 1 bicycle(s), 3 mobile phone(s), 5 umbrella(s).
+Tuiles (6720px, 11840px) : 3 mobile phone(s).
+Tuiles (7040px, 11840px) : 1 book(s).
+Tuiles (7360px, 11840px) : 1 flower(s).
+Tuiles (7680px, 11840px) : 1 frisbee(s).
+Tuiles (8000px, 11840px) : 1 frisbee(s).
+Tuiles (8320px, 11840px) : 1 animal(s).
+Tuiles (8640px, 11840px) : 1 flower(s).
+Tuiles (8960px, 11840px) : 1 flower(s).
+Tuiles (9280px, 11840px) : 1 flower(s).
+Tuiles (9600px, 11840px) : 1 flower(s).
+Tuiles (9920px, 11840px) : 1 starfish(s).
+Tuiles (10240px, 12160px) : 1 ball(s).
+Tuiles (10560px, 12160px) : 1 ball(s).
+Tuiles (2560px, 12160px) : 1 street light(s).
+Tuiles (2880px, 12160px) : 1 street light(s).
+Tuiles (3200px, 12160px) : 1 kite(s).
+Tuiles (3520px, 12160px) : 1 stairs(s).
+Tuiles (3840px, 12160px) : 1 bicycle(s).
+Tuiles (4160px, 12160px) : 1 bicycle(s).
+Tuiles (4480px, 12160px) : 1 stop sign(s).
+Tuiles (4800px, 12160px) : 1 flower(s).
+Tuiles (5120px, 12160px) : 1 flower(s).
+Tuiles (5440px, 12160px) : 1 street sign(s).
+Tuiles (5760px, 12160px) : 1 street sign(s).
+Tuiles (6080px, 12160px) : 1 street sign(s).
+Tuiles (6400px, 12160px) : 1 bicycle(s), 1 street sign(s).
+Tuiles (6720px, 12160px) : 2 bicycle(s), 1 street sign(s).
+Tuiles (7040px, 12160px) : 1 bicycle(s), 1 clock(s).
+Tuiles (7360px, 12160px) : 1 footwear(s).
+Tuiles (7680px, 12160px) : 1 bird(s).
+Tuiles (8000px, 12160px) : 1 frisbee(s).
+Tuiles (8320px, 12160px) : 1 mushroom(s).
+Tuiles (8640px, 12160px) : 1 bird(s).
+Tuiles (8960px, 12160px) : 1 flower(s).
+Tuiles (9280px, 12160px) : 1 stairs(s).
+Tuiles (9600px, 12160px) : 1 vent(s).
+Tuiles (9920px, 12160px) : 1 vent(s).
+Tuiles (10240px, 12480px) : 1 houseplant(s).
+Tuiles (10560px, 12480px) : 1 houseplant(s).
+Tuiles (3200px, 12480px) : 1 houseplant(s).
+Tuiles (3520px, 12480px) : 1 window(s).
+Tuiles (3840px, 12480px) : 1 bicycle(s).
+Tuiles (4160px, 12480px) : 1 bicycle(s).
+Tuiles (4480px, 12480px) : 1 stop sign(s).
+Tuiles (4800px, 12480px) : 1 flower(s).
+Tuiles (5120px, 12480px) : 1 flower(s).
+Tuiles (5440px, 12480px) : 1 street sign(s).
+Tuiles (5760px, 12480px) : 1 street sign(s).
+Tuiles (6080px, 12480px) : 1 street light(s).
+Tuiles (6400px, 12480px) : 1 clock(s).
+Tuiles (6720px, 12480px) : 1 bicycle(s).
+Tuiles (7040px, 12480px) : 1 bicycle(s).
+Tuiles (7360px, 12480px) : 1 street sign(s).
+Tuiles (7680px, 12480px) : 1 frisbee(s).
+Tuiles (8000px, 12480px) : 1 mobile phone(s).
+Tuiles (8320px, 12480px) : 1 vent(s).
+Tuiles (8640px, 12480px) : 1 flower(s).
+Tuiles (8960px, 12480px) : 1 bird(s).
+Tuiles (9280px, 12480px) : 1 surfboard(s).
+Tuiles (9600px, 12480px) : 1 vent(s).
+Tuiles (9920px, 12480px) : 1 vent(s).
+Tuiles (3200px, 12800px) : 1 window(s).
+Tuiles (3520px, 12800px) : 1 window(s).
+Tuiles (3840px, 12800px) : 1 houseplant(s).
+Tuiles (4160px, 12800px) : 1 houseplant(s).
+Tuiles (4480px, 12800px) : 1 bird(s).
+Tuiles (4800px, 12800px) : 1 street light(s).
+Tuiles (5120px, 12800px) : 1 street light(s).
+Tuiles (5440px, 12800px) : 1 car(s).
+Tuiles (5760px, 12800px) : 1 sink(s).
+Tuiles (6080px, 12800px) : 1 street sign(s).
+Tuiles (6400px, 12800px) : 1 clock(s).
+Tuiles (6720px, 12800px) : 1 houseplant(s).
+Tuiles (7040px, 12800px) : 1 traffic sign(s).
+Tuiles (7360px, 12800px) : 1 street sign(s).
+Tuiles (7680px, 12800px) : 1 stairs(s).
+Tuiles (8000px, 12800px) : 1 sink(s).
+Tuiles (8320px, 12800px) : 1 vent(s).
+Tuiles (8640px, 12800px) : 1 flagpole(s).
+Tuiles (8960px, 12800px) : 1 bicycle(s).
+Tuiles (9280px, 12800px) : 1 bicycle(s).
+Tuiles (9600px, 12800px) : 1 house(s).
+Tuiles (10240px, 1280px) : 1 bird(s).
+Tuiles (10560px, 1280px) : 1 flower(s).
+Tuiles (10880px, 1280px) : 1 flower(s).
+Tuiles (1280px, 1280px) : 1 clock(s).
+Tuiles (1600px, 1280px) : 1 window(s).
+Tuiles (1920px, 1280px) : 1 car(s).
+Tuiles (2240px, 1280px) : 1 window(s).
+Tuiles (2560px, 1280px) : 1 window(s).
+Tuiles (2880px, 1280px) : 1 animal(s).
+Tuiles (3200px, 1280px) : 1 animal(s).
+Tuiles (3520px, 1280px) : 1 bird(s).
+Tuiles (3840px, 1280px) : 1 bird(s).
+Tuiles (4160px, 1280px) : 1 plastic bag(s).
+Tuiles (4480px, 1280px) : 1 plastic bag(s).
+Tuiles (4800px, 1280px) : 1 tag(s).
+Tuiles (5120px, 1280px) : 1 tag(s).
+Tuiles (5440px, 1280px) : 1 surfboard(s).
+Tuiles (5760px, 1280px) : 1 support hose(s).
+Tuiles (6080px, 1280px) : 2 power plugs and sockets(s).
+Tuiles (640px, 1280px) : 1 plate(s).
+Tuiles (6400px, 1280px) : 1 power plugs and sockets(s).
+Tuiles (6720px, 1280px) : 1 bathtub(s).
+Tuiles (7040px, 1280px) : 1 scissors(s).
+Tuiles (7360px, 1280px) : 1 christmas tree(s).
+Tuiles (7680px, 1280px) : 1 christmas tree(s).
+Tuiles (8000px, 1280px) : 1 bowl(s).
+Tuiles (8320px, 1280px) : 1 frisbee(s).
+Tuiles (8640px, 1280px) : 1 flower(s).
+Tuiles (8960px, 1280px) : 1 flowerpot(s).
+Tuiles (9280px, 1280px) : 1 footwear(s).
+Tuiles (960px, 1280px) : 2 plate(s).
+Tuiles (9600px, 1280px) : 1 footwear(s).
+Tuiles (9920px, 1280px) : 1 mushroom(s).
+Tuiles (3840px, 13120px) : 1 houseplant(s).
+Tuiles (4160px, 13120px) : 1 houseplant(s).
+Tuiles (4480px, 13120px) : 1 palm tree(s).
+Tuiles (4800px, 13120px) : 1 houseplant(s).
+Tuiles (5120px, 13120px) : 1 palm tree(s).
+Tuiles (5440px, 13120px) : 1 bird(s).
+Tuiles (5760px, 13120px) : 1 bird(s).
+Tuiles (6080px, 13120px) : 1 sink(s).
+Tuiles (6400px, 13120px) : 1 car(s).
+Tuiles (6720px, 13120px) : 1 houseplant(s).
+Tuiles (7040px, 13120px) : 1 houseplant(s).
+Tuiles (7360px, 13120px) : 1 cat(s).
+Tuiles (7680px, 13120px) : 1 car(s).
+Tuiles (8000px, 13120px) : 1 car(s).
+Tuiles (8320px, 13120px) : 1 stop sign(s).
+Tuiles (8640px, 13120px) : 1 flagpole(s).
+Tuiles (8960px, 13120px) : 1 bicycle(s).
+Tuiles (9280px, 13120px) : 1 bicycle(s).
+Tuiles (3840px, 13440px) : 1 footwear(s).
+Tuiles (4160px, 13440px) : 1 cat(s).
+Tuiles (4480px, 13440px) : 1 palm tree(s).
+Tuiles (4800px, 13440px) : 1 houseplant(s).
+Tuiles (5120px, 13440px) : 1 palm tree(s).
+Tuiles (5440px, 13440px) : 1 bird(s).
+Tuiles (5760px, 13440px) : 1 trash bin/can(s).
+Tuiles (6080px, 13440px) : 1 vent(s).
+Tuiles (6400px, 13440px) : 1 car tire(s).
+Tuiles (6720px, 13440px) : 1 houseplant(s).
+Tuiles (7040px, 13440px) : 1 houseplant(s).
+Tuiles (7360px, 13440px) : 1 traffic sign(s).
+Tuiles (7680px, 13440px) : 1 traffic sign(s).
+Tuiles (8000px, 13440px) : 1 vehicle(s).
+Tuiles (8320px, 13440px) : 1 house(s).
+Tuiles (8640px, 13440px) : 1 car(s), 2 taillight(s), 2 wheel(s).
+Tuiles (8960px, 13440px) : 1 car(s), 2 taillight(s), 2 wheel(s).
+Tuiles (4800px, 13760px) : 1 car(s).
+Tuiles (5120px, 13760px) : 1 car(s).
+Tuiles (5440px, 13760px) : 1 bird(s).
+Tuiles (5760px, 13760px) : 1 kite(s).
+Tuiles (6080px, 13760px) : 1 blanket(s).
+Tuiles (6400px, 13760px) : 1 car tire(s).
+Tuiles (6720px, 13760px) : 1 manhole(s).
+Tuiles (7040px, 13760px) : 1 houseplant(s).
+Tuiles (7360px, 13760px) : 1 traffic sign(s).
+Tuiles (7680px, 13760px) : 1 bicycle(s).
+Tuiles (8000px, 13760px) : 1 bicycle(s).
+Tuiles (8320px, 13760px) : 1 umbrella(s).
+Tuiles (8640px, 13760px) : 1 car(s), 2 wheel(s).
+Tuiles (5120px, 14080px) : 1 curtain(s).
+Tuiles (5440px, 14080px) : 1 bird(s).
+Tuiles (5760px, 14080px) : 1 kite(s).
+Tuiles (6080px, 14080px) : 1 kite(s).
+Tuiles (6400px, 14080px) : 1 mirror(s).
+Tuiles (6720px, 14080px) : 1 houseplant(s).
+Tuiles (7040px, 14080px) : 1 houseplant(s).
+Tuiles (7360px, 14080px) : 1 traffic sign(s).
+Tuiles (7680px, 14080px) : 1 bicycle(s).
+Tuiles (8000px, 14080px) : 1 bicycle(s).
+Tuiles (8320px, 14080px) : 1 street sign(s).
+Tuiles (5760px, 14400px) : 1 kite(s).
+Tuiles (6080px, 14400px) : 1 tag(s).
+Tuiles (6400px, 14400px) : 1 houseplant(s).
+Tuiles (6720px, 14400px) : 1 houseplant(s).
+Tuiles (7040px, 14400px) : 1 houseplant(s).
+Tuiles (7360px, 14400px) : 1 stairs(s).
+Tuiles (10240px, 1600px) : 1 animal(s).
+Tuiles (10560px, 1600px) : 1 animal(s).
+Tuiles (10880px, 1600px) : 1 bird(s).
+Tuiles (1280px, 1600px) : 2 clock(s).
+Tuiles (1600px, 1600px) : 1 window(s).
+Tuiles (1920px, 1600px) : 1 street light(s).
+Tuiles (2240px, 1600px) : 1 bird(s).
+Tuiles (2560px, 1600px) : 1 bench(s).
+Tuiles (2880px, 1600px) : 1 flower(s).
+Tuiles (3200px, 1600px) : 1 flower(s).
+Tuiles (3520px, 1600px) : 1 window(s).
+Tuiles (3840px, 1600px) : 1 houseplant(s).
+Tuiles (4160px, 1600px) : 1 wheel(s).
+Tuiles (4480px, 1600px) : 1 plastic bag(s).
+Tuiles (4800px, 1600px) : 1 bench(s).
+Tuiles (5120px, 1600px) : 1 houseplant(s).
+Tuiles (5440px, 1600px) : 1 houseplant(s).
+Tuiles (5760px, 1600px) : 1 bird(s).
+Tuiles (6080px, 1600px) : 1 bird(s).
+Tuiles (640px, 1600px) : 1 clock(s).
+Tuiles (6400px, 1600px) : 1 bird(s).
+Tuiles (6720px, 1600px) : 1 bench(s).
+Tuiles (7040px, 1600px) : 1 scissors(s).
+Tuiles (7360px, 1600px) : 1 clock(s).
+Tuiles (7680px, 1600px) : 1 stairs(s).
+Tuiles (8000px, 1600px) : 1 bowl(s).
+Tuiles (8320px, 1600px) : 1 toilet(s).
+Tuiles (8640px, 1600px) : 1 flower(s).
+Tuiles (8960px, 1600px) : 1 frisbee(s).
+Tuiles (9280px, 1600px) : 1 footwear(s).
+Tuiles (960px, 1600px) : 1 plate(s).
+Tuiles (9600px, 1600px) : 1 footwear(s).
+Tuiles (9920px, 1600px) : 1 houseplant(s).
+Tuiles (10240px, 1920px) : 1 animal(s).
+Tuiles (10560px, 1920px) : 1 plastic bag(s).
+Tuiles (10880px, 1920px) : 1 house(s).
+Tuiles (1280px, 1920px) : 2 clock(s).
+Tuiles (1600px, 1920px) : 1 window(s).
+Tuiles (1920px, 1920px) : 1 street light(s).
+Tuiles (2240px, 1920px) : 1 insect(s).
+Tuiles (2560px, 1920px) : 1 bench(s).
+Tuiles (2880px, 1920px) : 2 flower(s).
+Tuiles (3200px, 1920px) : 1 flower(s).
+Tuiles (3520px, 1920px) : 1 flowerpot(s).
+Tuiles (3840px, 1920px) : 1 flag(s).
+Tuiles (4160px, 1920px) : 1 wheel(s).
+Tuiles (4480px, 1920px) : 1 ladder(s).
+Tuiles (4800px, 1920px) : 1 bird(s).
+Tuiles (5120px, 1920px) : 1 bird(s).
+Tuiles (5440px, 1920px) : 1 toilet(s).
+Tuiles (5760px, 1920px) : 1 boat(s).
+Tuiles (6080px, 1920px) : 1 stairs(s).
+Tuiles (640px, 1920px) : 2 clock(s).
+Tuiles (6400px, 1920px) : 1 swimming pool(s).
+Tuiles (6720px, 1920px) : 1 swimming pool(s).
+Tuiles (7040px, 1920px) : 1 swimming pool(s).
+Tuiles (7360px, 1920px) : 1 bench(s).
+Tuiles (7680px, 1920px) : 1 stairs(s).
+Tuiles (8000px, 1920px) : 1 stairs(s).
+Tuiles (8320px, 1920px) : 1 person(s).
+Tuiles (8640px, 1920px) : 1 person(s).
+Tuiles (8960px, 1920px) : 1 crate(s).
+Tuiles (9280px, 1920px) : 1 box(s).
+Tuiles (960px, 1920px) : 2 clock(s).
+Tuiles (9600px, 1920px) : 1 ladder(s).
+Tuiles (9920px, 1920px) : 1 flower(s).
+Tuiles (10240px, 2240px) : 1 animal(s).
+Tuiles (10560px, 2240px) : 1 house(s).
+Tuiles (10880px, 2240px) : 3 house(s).
+Tuiles (1280px, 2240px) : 3 coin(s).
+Tuiles (1600px, 2240px) : 1 window(s).
+Tuiles (1920px, 2240px) : 1 insect(s).
+Tuiles (2240px, 2240px) : 1 flower(s).
+Tuiles (2560px, 2240px) : 1 flower(s).
+Tuiles (2880px, 2240px) : 1 flower(s).
+Tuiles (3200px, 2240px) : 1 flower(s).
+Tuiles (3520px, 2240px) : 1 flower(s).
+Tuiles (3840px, 2240px) : 1 flag(s).
+Tuiles (4160px, 2240px) : 1 flag(s).
+Tuiles (4480px, 2240px) : 1 bird(s).
+Tuiles (4800px, 2240px) : 1 bird(s).
+Tuiles (5120px, 2240px) : 1 banner(s).
+Tuiles (5440px, 2240px) : 1 street sign(s).
+Tuiles (5760px, 2240px) : 1 plastic bag(s).
+Tuiles (6080px, 2240px) : 1 chair(s).
+Tuiles (640px, 2240px) : 3 clock(s).
+Tuiles (6400px, 2240px) : 1 bicycle(s).
+Tuiles (6720px, 2240px) : 1 box(s).
+Tuiles (7040px, 2240px) : 1 bicycle(s).
+Tuiles (7360px, 2240px) : 1 bird(s).
+Tuiles (7680px, 2240px) : 1 boat(s).
+Tuiles (8000px, 2240px) : 1 boat(s).
+Tuiles (8320px, 2240px) : 1 adhesive tape(s).
+Tuiles (8640px, 2240px) : 1 boat(s).
+Tuiles (8960px, 2240px) : 1 crate(s).
+Tuiles (9280px, 2240px) : 1 crate(s).
+Tuiles (960px, 2240px) : 1 plate(s).
+Tuiles (9600px, 2240px) : 1 book(s).
+Tuiles (9920px, 2240px) : 1 flower(s).
+Tuiles (10240px, 2560px) : 1 animal(s).
+Tuiles (10560px, 2560px) : 1 house(s).
+Tuiles (10880px, 2560px) : 3 house(s).
+Tuiles (11200px, 2560px) : 2 house(s).
+Tuiles (11520px, 2560px) : 1 house(s).
+Tuiles (12160px, 2560px) : aucun objet détecté.
+Tuiles (1280px, 2560px) : 1 clock(s).
+Tuiles (1600px, 2560px) : 1 window(s).
+Tuiles (1920px, 2560px) : 1 door(s).
+Tuiles (2240px, 2560px) : 1 flower(s).
+Tuiles (2560px, 2560px) : 1 flower(s).
+Tuiles (2880px, 2560px) : 1 flower(s).
+Tuiles (3200px, 2560px) : 1 flower(s).
+Tuiles (3520px, 2560px) : 1 flower(s).
+Tuiles (3840px, 2560px) : 1 book(s).
+Tuiles (4160px, 2560px) : 1 book(s).
+Tuiles (4480px, 2560px) : 1 bathtub(s).
+Tuiles (4800px, 2560px) : 1 adhesive tape(s).
+Tuiles (5120px, 2560px) : 1 banner(s).
+Tuiles (5440px, 2560px) : 1 mobile phone(s).
+Tuiles (5760px, 2560px) : 1 mobile phone(s).
+Tuiles (6080px, 2560px) : 1 chair(s).
+Tuiles (640px, 2560px) : 1 house(s).
+Tuiles (6400px, 2560px) : 1 box(s).
+Tuiles (6720px, 2560px) : 1 box(s).
+Tuiles (7040px, 2560px) : 1 hook(s).
+Tuiles (7360px, 2560px) : 1 frisbee(s).
+Tuiles (7680px, 2560px) : 1 surfboard(s).
+Tuiles (8000px, 2560px) : 1 backpack(s).
+Tuiles (8320px, 2560px) : 1 backpack(s).
+Tuiles (8640px, 2560px) : 1 baseball bat(s).
+Tuiles (8960px, 2560px) : 1 car(s).
+Tuiles (9280px, 2560px) : 1 suitcase(s).
+Tuiles (960px, 2560px) : 1 clock(s).
+Tuiles (9600px, 2560px) : 1 chair(s).
+Tuiles (9920px, 2560px) : 1 log(s).
+Tuiles (0px, 2880px) : 1 nail(s).
+Tuiles (10240px, 2880px) : 1 frisbee(s).
+Tuiles (10560px, 2880px) : 1 animal(s).
+Tuiles (10880px, 2880px) : 1 bird(s).
+Tuiles (11200px, 2880px) : 1 chair(s).
+Tuiles (11520px, 2880px) : 1 log(s).
+Tuiles (1280px, 2880px) : 1 stairs(s).
+Tuiles (1600px, 2880px) : 1 stairs(s).
+Tuiles (1920px, 2880px) : 1 door(s).
+Tuiles (2240px, 2880px) : 1 flower(s).
+Tuiles (2560px, 2880px) : 1 flower(s).
+Tuiles (2880px, 2880px) : 1 flower(s).
+Tuiles (320px, 2880px) : 1 window(s).
+Tuiles (3200px, 2880px) : aucun objet détecté.
+Tuiles (3520px, 2880px) : 1 nail(s).
+Tuiles (3840px, 2880px) : 1 wheel(s).
+Tuiles (4160px, 2880px) : 1 power plugs and sockets(s).
+Tuiles (4480px, 2880px) : 3 power plugs and sockets(s).
+Tuiles (4800px, 2880px) : 3 footwear(s).
+Tuiles (5120px, 2880px) : 1 footwear(s).
+Tuiles (5440px, 2880px) : 1 land vehicle(s).
+Tuiles (5760px, 2880px) : 15 barrel(s), 1 box(s).
+Tuiles (6080px, 2880px) : 1 plastic bag(s).
+Tuiles (640px, 2880px) : 1 window(s).
+Tuiles (6400px, 2880px) : 1 box(s).
+Tuiles (6720px, 2880px) : 1 surfboard(s).
+Tuiles (7040px, 2880px) : 1 bird(s).
+Tuiles (7360px, 2880px) : 1 painting(s).
+Tuiles (7680px, 2880px) : 1 surfboard(s).
+Tuiles (8000px, 2880px) : 1 surfboard(s).
+Tuiles (8320px, 2880px) : 1 backpack(s).
+Tuiles (8640px, 2880px) : 1 adhesive tape(s).
+Tuiles (8960px, 2880px) : 1 car(s).
+Tuiles (9280px, 2880px) : 1 car(s).
+Tuiles (960px, 2880px) : 1 insect(s).
+Tuiles (9600px, 2880px) : 1 towel(s).
+Tuiles (9920px, 2880px) : 1 frisbee(s).
+Tuiles (0px, 3200px) : 2 bench(s).
+Tuiles (10240px, 3200px) : 1 frisbee(s).
+Tuiles (10560px, 3200px) : 1 flower(s).
+Tuiles (10880px, 3200px) : 1 flower(s).
+Tuiles (11200px, 3200px) : 1 bench(s).
+Tuiles (11520px, 3200px) : 1 bench(s).
+Tuiles (12160px, 3200px) : aucun objet détecté.
+Tuiles (1280px, 3200px) : 1 stairs(s).
+Tuiles (1600px, 3200px) : 1 stairs(s).
+Tuiles (1920px, 3200px) : 1 window(s).
+Tuiles (2240px, 3200px) : 1 flower(s).
+Tuiles (2560px, 3200px) : 1 insect(s).
+Tuiles (2880px, 3200px) : 1 flower(s).
+Tuiles (320px, 3200px) : 2 bench(s).
+Tuiles (3200px, 3200px) : 1 animal(s).
+Tuiles (3520px, 3200px) : 1 nail(s).
+Tuiles (3840px, 3200px) : 1 houseplant(s).
+Tuiles (4160px, 3200px) : 1 houseplant(s), 2 power plugs and sockets(s), 1 trash bin/can(s).
+Tuiles (4480px, 3200px) : 2 power plugs and sockets(s).
+Tuiles (4800px, 3200px) : 1 mobile phone(s).
+Tuiles (5120px, 3200px) : 1 land vehicle(s).
+Tuiles (5440px, 3200px) : 1 barrel(s), 1 suitcase(s), 1 truck(s).
+Tuiles (5760px, 3200px) : 1 backpack(s), 1 plastic bag(s).
+Tuiles (6080px, 3200px) : 1 plastic bag(s).
+Tuiles (640px, 3200px) : 1 insect(s).
+Tuiles (6400px, 3200px) : 1 kite(s).
+Tuiles (6720px, 3200px) : 1 book(s).
+Tuiles (7040px, 3200px) : 1 toothbrush(s).
+Tuiles (7360px, 3200px) : 1 person(s).
+Tuiles (7680px, 3200px) : 1 bathtub(s).
+Tuiles (8000px, 3200px) : 1 surfboard(s).
+Tuiles (8320px, 3200px) : 1 surfboard(s).
+Tuiles (8640px, 3200px) : 1 kite(s).
+Tuiles (8960px, 3200px) : 1 car(s).
+Tuiles (9280px, 3200px) : 1 car(s).
+Tuiles (960px, 3200px) : 1 ladder(s).
+Tuiles (9600px, 3200px) : 1 suitcase(s).
+Tuiles (9920px, 3200px) : 1 frisbee(s).
+Tuiles (1600px, 320px) : 1 bird(s).
+Tuiles (1920px, 320px) : 1 bicycle(s).
+Tuiles (2240px, 320px) : 1 door(s).
+Tuiles (2560px, 320px) : 1 door(s).
+Tuiles (2880px, 320px) : 1 book(s).
+Tuiles (3200px, 320px) : 1 book(s).
+Tuiles (3520px, 320px) : 1 book(s).
+Tuiles (3840px, 320px) : 1 ball(s).
+Tuiles (4160px, 320px) : 1 tag(s).
+Tuiles (4480px, 320px) : 1 tag(s).
+Tuiles (4800px, 320px) : 1 book(s).
+Tuiles (5120px, 320px) : 1 book(s).
+Tuiles (5440px, 320px) : 1 book(s).
+Tuiles (5760px, 320px) : 1 airplane(s).
+Tuiles (6080px, 320px) : 1 book(s).
+Tuiles (6400px, 320px) : 1 book(s).
+Tuiles (6720px, 320px) : 1 book(s).
+Tuiles (7040px, 320px) : 1 book(s).
+Tuiles (7360px, 320px) : 1 door(s).
+Tuiles (7680px, 320px) : 1 flowerpot(s).
+Tuiles (8000px, 320px) : 1 insect(s).
+Tuiles (8320px, 320px) : 1 mushroom(s).
+Tuiles (8640px, 320px) : 1 mushroom(s).
+Tuiles (8960px, 320px) : 1 bird(s).
+Tuiles (9280px, 320px) : 1 bird(s).
+Tuiles (9600px, 320px) : 1 insect(s).
+Tuiles (0px, 3520px) : 1 bench(s).
+Tuiles (10240px, 3520px) : 1 mushroom(s).
+Tuiles (10560px, 3520px) : 1 house(s).
+Tuiles (10880px, 3520px) : 1 door(s).
+Tuiles (11200px, 3520px) : 1 door(s).
+Tuiles (11520px, 3520px) : 1 bench(s).
+Tuiles (1280px, 3520px) : 1 stairs(s).
+Tuiles (1600px, 3520px) : 1 house(s).
+Tuiles (1920px, 3520px) : 1 street light(s).
+Tuiles (2240px, 3520px) : 1 insect(s).
+Tuiles (2560px, 3520px) : 1 flower(s).
+Tuiles (2880px, 3520px) : 1 insect(s).
+Tuiles (320px, 3520px) : 2 bench(s).
+Tuiles (3200px, 3520px) : 1 animal(s).
+Tuiles (3520px, 3520px) : 1 window(s).
+Tuiles (3840px, 3520px) : 1 flowerpot(s).
+Tuiles (4160px, 3520px) : 1 flowerpot(s).
+Tuiles (4480px, 3520px) : 1 tarp(s).
+Tuiles (4800px, 3520px) : 1 mobile phone(s).
+Tuiles (5120px, 3520px) : 1 bed(s), 1 car(s).
+Tuiles (5440px, 3520px) : 1 car(s).
+Tuiles (5760px, 3520px) : 1 surfboard(s).
+Tuiles (6080px, 3520px) : 1 kite(s).
+Tuiles (640px, 3520px) : 1 nail(s).
+Tuiles (6400px, 3520px) : 2 kite(s).
+Tuiles (6720px, 3520px) : 1 book(s).
+Tuiles (7040px, 3520px) : 1 toothbrush(s).
+Tuiles (7360px, 3520px) : 1 fish(s).
+Tuiles (7680px, 3520px) : 1 bird(s).
+Tuiles (8000px, 3520px) : 1 bird(s).
+Tuiles (8320px, 3520px) : 1 surfboard(s).
+Tuiles (8640px, 3520px) : 1 surfboard(s).
+Tuiles (8960px, 3520px) : 1 person(s).
+Tuiles (9280px, 3520px) : 1 towel(s).
+Tuiles (960px, 3520px) : 1 ladder(s).
+Tuiles (9600px, 3520px) : 1 towel(s).
+Tuiles (9920px, 3520px) : 1 plastic bag(s).
+Tuiles (0px, 3840px) : 1 christmas tree(s).
+Tuiles (10240px, 3840px) : 1 flower(s).
+Tuiles (10560px, 3840px) : 1 door handle(s).
+Tuiles (10880px, 3840px) : 1 door handle(s).
+Tuiles (11200px, 3840px) : 1 umbrella(s).
+Tuiles (11520px, 3840px) : 1 window blind(s).
+Tuiles (12160px, 3840px) : aucun objet détecté.
+Tuiles (1280px, 3840px) : 2 coin(s).
+Tuiles (1600px, 3840px) : 2 manhole(s).
+Tuiles (1920px, 3840px) : 1 mobile phone(s).
+Tuiles (2240px, 3840px) : 1 insect(s).
+Tuiles (2560px, 3840px) : 1 insect(s).
+Tuiles (2880px, 3840px) : 1 animal(s).
+Tuiles (320px, 3840px) : 1 insect(s).
+Tuiles (3200px, 3840px) : 1 animal(s).
+Tuiles (3520px, 3840px) : 1 window(s).
+Tuiles (3840px, 3840px) : 1 door(s).
+Tuiles (4160px, 3840px) : 1 curtain(s).
+Tuiles (4480px, 3840px) : 1 curtain(s).
+Tuiles (4800px, 3840px) : 1 person(s).
+Tuiles (5120px, 3840px) : 1 envelope(s).
+Tuiles (5440px, 3840px) : 1 kite(s).
+Tuiles (5760px, 3840px) : 1 fish(s).
+Tuiles (6080px, 3840px) : 1 painting(s).
+Tuiles (640px, 3840px) : 1 nail(s).
+Tuiles (6400px, 3840px) : 1 kite(s).
+Tuiles (6720px, 3840px) : 1 kite(s).
+Tuiles (7040px, 3840px) : 1 painting(s).
+Tuiles (7360px, 3840px) : 1 painting(s).
+Tuiles (7680px, 3840px) : 1 bird(s).
+Tuiles (8000px, 3840px) : 1 bird(s).
+Tuiles (8320px, 3840px) : 1 bird(s).
+Tuiles (8640px, 3840px) : 1 car(s).
+Tuiles (8960px, 3840px) : 1 person(s).
+Tuiles (9280px, 3840px) : 1 towel(s).
+Tuiles (960px, 3840px) : 1 nail(s).
+Tuiles (9600px, 3840px) : 1 towel(s).
+Tuiles (9920px, 3840px) : 1 flower(s).
+Tuiles (0px, 4160px) : 1 elephant(s).
+Tuiles (10240px, 4160px) : 1 flowerpot(s).
+Tuiles (10560px, 4160px) : 1 houseplant(s).
+Tuiles (10880px, 4160px) : 1 toilet paper(s).
+Tuiles (11200px, 4160px) : 1 umbrella(s).
+Tuiles (11520px, 4160px) : 1 window blind(s).
+Tuiles (1280px, 4160px) : 1 umbrella(s).
+Tuiles (1600px, 4160px) : 3 nail(s).
+Tuiles (1920px, 4160px) : 2 coin(s).
+Tuiles (2240px, 4160px) : 1 insect(s).
+Tuiles (2560px, 4160px) : 1 insect(s).
+Tuiles (2880px, 4160px) : 1 animal(s).
+Tuiles (320px, 4160px) : 1 broccoli(s).
+Tuiles (3200px, 4160px) : 1 insect(s).
+Tuiles (3520px, 4160px) : 1 animal(s).
+Tuiles (3840px, 4160px) : 1 car(s).
+Tuiles (4160px, 4160px) : 2 curtain(s).
+Tuiles (4480px, 4160px) : 1 curtain(s).
+Tuiles (4800px, 4160px) : 1 curtain(s).
+Tuiles (5120px, 4160px) : 1 house(s).
+Tuiles (5440px, 4160px) : 1 book(s).
+Tuiles (5760px, 4160px) : 1 bench(s).
+Tuiles (6080px, 4160px) : 1 sheep(s).
+Tuiles (640px, 4160px) : 1 umbrella(s).
+Tuiles (6400px, 4160px) : 1 ball(s).
+Tuiles (6720px, 4160px) : 1 ball(s).
+Tuiles (7040px, 4160px) : 1 tag(s).
+Tuiles (7360px, 4160px) : 1 bird(s).
+Tuiles (7680px, 4160px) : 1 bird(s).
+Tuiles (8000px, 4160px) : 1 bench(s).
+Tuiles (8320px, 4160px) : 1 ball(s).
+Tuiles (8640px, 4160px) : 1 ball(s).
+Tuiles (8960px, 4160px) : 1 kite(s).
+Tuiles (9280px, 4160px) : 1 suitcase(s).
+Tuiles (960px, 4160px) : 2 umbrella(s).
+Tuiles (9600px, 4160px) : 1 umbrella(s).
+Tuiles (9920px, 4160px) : 1 flowerpot(s).
+Tuiles (0px, 4480px) : 1 christmas tree(s).
+Tuiles (10240px, 4480px) : 1 flowerpot(s).
+Tuiles (10560px, 4480px) : 1 house(s).
+Tuiles (10880px, 4480px) : 1 hinge(s).
+Tuiles (11200px, 4480px) : 1 door handle(s).
+Tuiles (11520px, 4480px) : 1 curtain(s).
+Tuiles (12160px, 4480px) : aucun objet détecté.
+Tuiles (1280px, 4480px) : 1 umbrella(s).
+Tuiles (1600px, 4480px) : 3 coin(s).
+Tuiles (1920px, 4480px) : 2 coin(s).
+Tuiles (2240px, 4480px) : 1 flower(s).
+Tuiles (2560px, 4480px) : 1 flower(s).
+Tuiles (2880px, 4480px) : 1 animal(s).
+Tuiles (320px, 4480px) : 1 footwear(s).
+Tuiles (3200px, 4480px) : 1 footwear(s).
+Tuiles (3520px, 4480px) : 1 footwear(s).
+Tuiles (3840px, 4480px) : 1 car(s).
+Tuiles (4160px, 4480px) : 1 car(s), 1 curtain(s).
+Tuiles (4480px, 4480px) : 1 curtain(s).
+Tuiles (4800px, 4480px) : 1 curtain(s).
+Tuiles (5120px, 4480px) : 1 sheep(s).
+Tuiles (5440px, 4480px) : 1 sheep(s).
+Tuiles (5760px, 4480px) : 1 bird(s).
+Tuiles (6080px, 4480px) : 1 frisbee(s).
+Tuiles (640px, 4480px) : 1 umbrella(s).
+Tuiles (6400px, 4480px) : 1 ball(s).
+Tuiles (6720px, 4480px) : 1 ball(s).
+Tuiles (7040px, 4480px) : 1 ball(s).
+Tuiles (7360px, 4480px) : 1 kite(s).
+Tuiles (7680px, 4480px) : 1 frisbee(s).
+Tuiles (8000px, 4480px) : 1 frisbee(s).
+Tuiles (8320px, 4480px) : 1 ball(s).
+Tuiles (8640px, 4480px) : 1 ball(s).
+Tuiles (8960px, 4480px) : 1 surfboard(s).
+Tuiles (9280px, 4480px) : 1 plastic bag(s).
+Tuiles (960px, 4480px) : 2 umbrella(s).
+Tuiles (9600px, 4480px) : 1 footwear(s).
+Tuiles (9920px, 4480px) : 1 trash bin/can(s).
+Tuiles (0px, 4800px) : 1 bench(s).
+Tuiles (10240px, 4800px) : 1 flowerpot(s).
+Tuiles (10560px, 4800px) : 1 umbrella(s).
+Tuiles (10880px, 4800px) : 1 hinge(s).
+Tuiles (11200px, 4800px) : 1 hinge(s).
+Tuiles (11520px, 4800px) : 1 window blind(s).
+Tuiles (1280px, 4800px) : 1 coin(s).
+Tuiles (1600px, 4800px) : 2 coin(s).
+Tuiles (1920px, 4800px) : 1 coin(s).
+Tuiles (2240px, 4800px) : 1 trousers(s).
+Tuiles (2560px, 4800px) : 1 flower(s).
+Tuiles (2880px, 4800px) : 1 nail(s).
+Tuiles (320px, 4800px) : 1 bench(s).
+Tuiles (3200px, 4800px) : 1 nail(s).
+Tuiles (3520px, 4800px) : 1 window(s).
+Tuiles (3840px, 4800px) : 1 toilet paper(s).
+Tuiles (4160px, 4800px) : 1 curtain(s).
+Tuiles (4480px, 4800px) : 1 curtain(s).
+Tuiles (4800px, 4800px) : 1 hinge(s).
+Tuiles (5120px, 4800px) : 1 bird(s).
+Tuiles (5440px, 4800px) : 1 bird(s).
+Tuiles (5760px, 4800px) : 1 bird(s).
+Tuiles (6080px, 4800px) : 1 frisbee(s).
+Tuiles (640px, 4800px) : 1 umbrella(s).
+Tuiles (6400px, 4800px) : 1 frisbee(s).
+Tuiles (6720px, 4800px) : 1 flagpole(s).
+Tuiles (7040px, 4800px) : 1 ball(s).
+Tuiles (7360px, 4800px) : 1 kite(s).
+Tuiles (7680px, 4800px) : 1 frisbee(s).
+Tuiles (8000px, 4800px) : 1 frisbee(s).
+Tuiles (8320px, 4800px) : 1 frisbee(s).
+Tuiles (8640px, 4800px) : 1 bench(s).
+Tuiles (8960px, 4800px) : 1 surfboard(s).
+Tuiles (9280px, 4800px) : 1 person(s).
+Tuiles (960px, 4800px) : 2 umbrella(s).
+Tuiles (9600px, 4800px) : 1 tarp(s).
+Tuiles (9920px, 4800px) : 1 trash bin/can(s).
+Tuiles (0px, 5120px) : 1 house(s).
+Tuiles (10240px, 5120px) : 1 flower(s).
+Tuiles (10560px, 5120px) : 1 street light(s).
+Tuiles (10880px, 5120px) : 1 door handle(s).
+Tuiles (11200px, 5120px) : 1 hinge(s).
+Tuiles (11520px, 5120px) : 1 window blind(s).
+Tuiles (12160px, 5120px) : aucun objet détecté.
+Tuiles (1280px, 5120px) : 1 nail(s).
+Tuiles (1600px, 5120px) : 2 nail(s).
+Tuiles (1920px, 5120px) : 1 window(s).
+Tuiles (2240px, 5120px) : 1 flag(s).
+Tuiles (2560px, 5120px) : 1 bench(s), 1 stop sign(s).
+Tuiles (2880px, 5120px) : 1 stop sign(s).
+Tuiles (320px, 5120px) : 1 house(s).
+Tuiles (3200px, 5120px) : 1 house(s).
+Tuiles (3520px, 5120px) : 1 toilet paper(s).
+Tuiles (3840px, 5120px) : 1 door(s).
+Tuiles (4160px, 5120px) : 1 door(s).
+Tuiles (4480px, 5120px) : 1 tag(s).
+Tuiles (4800px, 5120px) : 1 vent(s).
+Tuiles (5120px, 5120px) : 1 cattle(s).
+Tuiles (5440px, 5120px) : 1 cattle(s).
+Tuiles (5760px, 5120px) : 1 frisbee(s).
+Tuiles (6080px, 5120px) : 1 pay phone(s).
+Tuiles (640px, 5120px) : 1 street light(s).
+Tuiles (6400px, 5120px) : 1 frisbee(s).
+Tuiles (6720px, 5120px) : 1 bird(s).
+Tuiles (7040px, 5120px) : 1 bird(s).
+Tuiles (7360px, 5120px) : 1 houseplant(s).
+Tuiles (7680px, 5120px) : 1 pay phone(s).
+Tuiles (8000px, 5120px) : 1 flagpole(s).
+Tuiles (8320px, 5120px) : 1 book(s).
+Tuiles (8640px, 5120px) : 1 person(s).
+Tuiles (8960px, 5120px) : 1 trash bin/can(s).
+Tuiles (9280px, 5120px) : 1 person(s).
+Tuiles (960px, 5120px) : 1 towel(s).
+Tuiles (9600px, 5120px) : 1 person(s).
+Tuiles (9920px, 5120px) : 1 flower(s).
+Tuiles (0px, 5440px) : aucun objet détecté.
+Tuiles (10240px, 5440px) : 1 sheep(s).
+Tuiles (10560px, 5440px) : 1 sheep(s).
+Tuiles (10880px, 5440px) : 1 door handle(s).
+Tuiles (11200px, 5440px) : 1 refrigerator(s).
+Tuiles (11520px, 5440px) : 1 curtain(s).
+Tuiles (1280px, 5440px) : 1 nail(s).
+Tuiles (1600px, 5440px) : 1 door(s).
+Tuiles (1920px, 5440px) : 1 clock(s).
+Tuiles (2240px, 5440px) : 1 clock(s).
+Tuiles (2560px, 5440px) : 4 stop sign(s).
+Tuiles (2880px, 5440px) : 1 stop sign(s).
+Tuiles (320px, 5440px) : 1 house(s).
+Tuiles (3200px, 5440px) : 1 window(s).
+Tuiles (3520px, 5440px) : 1 chair(s).
+Tuiles (3840px, 5440px) : 1 chair(s).
+Tuiles (4160px, 5440px) : 1 curtain(s).
+Tuiles (4480px, 5440px) : 1 curtain(s).
+Tuiles (4800px, 5440px) : 1 curtain(s).
+Tuiles (5120px, 5440px) : 1 cattle(s).
+Tuiles (5440px, 5440px) : 1 cattle(s).
+Tuiles (5760px, 5440px) : 1 flagpole(s).
+Tuiles (6080px, 5440px) : 1 frisbee(s).
+Tuiles (640px, 5440px) : 1 street light(s).
+Tuiles (6400px, 5440px) : 1 frisbee(s).
+Tuiles (6720px, 5440px) : 1 bird(s).
+Tuiles (7040px, 5440px) : 1 bird(s).
+Tuiles (7360px, 5440px) : 1 frisbee(s).
+Tuiles (7680px, 5440px) : 1 flagpole(s).
+Tuiles (8000px, 5440px) : 1 flagpole(s).
+Tuiles (8320px, 5440px) : 1 ball(s).
+Tuiles (8640px, 5440px) : 1 tennis racket(s).
+Tuiles (8960px, 5440px) : 1 book(s).
+Tuiles (9280px, 5440px) : 1 sheep(s).
+Tuiles (960px, 5440px) : 1 nail(s).
+Tuiles (9600px, 5440px) : 1 sheep(s).
+Tuiles (9920px, 5440px) : 1 flagpole(s).
+Tuiles (0px, 5760px) : aucun objet détecté.
+Tuiles (10240px, 5760px) : 1 flower(s).
+Tuiles (10560px, 5760px) : 1 door handle(s).
+Tuiles (10880px, 5760px) : 1 door handle(s).
+Tuiles (11200px, 5760px) : 1 window blind(s).
+Tuiles (11520px, 5760px) : 1 curtain(s).
+Tuiles (12160px, 5760px) : 1 stairs(s).
+Tuiles (1280px, 5760px) : 1 nail(s).
+Tuiles (1600px, 5760px) : 1 door(s).
+Tuiles (1920px, 5760px) : 1 clock(s).
+Tuiles (2240px, 5760px) : 1 clock(s).
+Tuiles (2560px, 5760px) : 1 stop sign(s).
+Tuiles (2880px, 5760px) : 1 stop sign(s).
+Tuiles (320px, 5760px) : 1 bird(s).
+Tuiles (3200px, 5760px) : 1 house(s).
+Tuiles (3520px, 5760px) : 1 chair(s).
+Tuiles (3840px, 5760px) : 1 corded phone(s).
+Tuiles (4160px, 5760px) : 1 door handle(s).
+Tuiles (4480px, 5760px) : 1 hinge(s).
+Tuiles (4800px, 5760px) : 1 curtain(s).
+Tuiles (5120px, 5760px) : 1 person(s).
+Tuiles (5440px, 5760px) : 1 hinge(s).
+Tuiles (5760px, 5760px) : 1 flagpole(s).
+Tuiles (6080px, 5760px) : 1 frisbee(s).
+Tuiles (640px, 5760px) : 1 bird(s).
+Tuiles (6400px, 5760px) : 1 frisbee(s).
+Tuiles (6720px, 5760px) : 1 frisbee(s).
+Tuiles (7040px, 5760px) : 1 frisbee(s).
+Tuiles (7360px, 5760px) : 1 frisbee(s).
+Tuiles (7680px, 5760px) : 1 flagpole(s).
+Tuiles (8000px, 5760px) : 1 flagpole(s).
+Tuiles (8320px, 5760px) : 1 ball(s).
+Tuiles (8640px, 5760px) : 1 ball(s).
+Tuiles (8960px, 5760px) : 1 refrigerator(s).
+Tuiles (9280px, 5760px) : 1 sheep(s).
+Tuiles (960px, 5760px) : 1 bird(s).
+Tuiles (9600px, 5760px) : 1 mushroom(s).
+Tuiles (9920px, 5760px) : 1 flagpole(s).
+Tuiles (0px, 6080px) : 1 street light(s).
+Tuiles (10240px, 6080px) : 1 flower(s).
+Tuiles (10560px, 6080px) : 1 window(s).
+Tuiles (10880px, 6080px) : 1 window(s).
+Tuiles (11200px, 6080px) : 1 refrigerator(s).
+Tuiles (11520px, 6080px) : 1 window blind(s).
+Tuiles (1280px, 6080px) : 1 nail(s).
+Tuiles (1600px, 6080px) : 1 door(s).
+Tuiles (1920px, 6080px) : 1 mobile phone(s).
+Tuiles (2240px, 6080px) : 1 crossbar(s).
+Tuiles (2560px, 6080px) : 1 crossbar(s).
+Tuiles (2880px, 6080px) : 1 stop sign(s).
+Tuiles (320px, 6080px) : 1 street light(s).
+Tuiles (3200px, 6080px) : 1 ladder(s).
+Tuiles (3520px, 6080px) : 1 ladder(s).
+Tuiles (3840px, 6080px) : 1 hinge(s).
+Tuiles (4160px, 6080px) : 1 curtain(s).
+Tuiles (4480px, 6080px) : 1 curtain(s).
+Tuiles (4800px, 6080px) : 1 curtain(s).
+Tuiles (5120px, 6080px) : 1 train(s).
+Tuiles (5440px, 6080px) : 1 tennis racket(s).
+Tuiles (5760px, 6080px) : aucun objet détecté.
+Tuiles (6080px, 6080px) : aucun objet détecté.
+Tuiles (640px, 6080px) : 1 houseplant(s).
+Tuiles (6400px, 6080px) : 1 sheep(s).
+Tuiles (6720px, 6080px) : 1 sheep(s).
+Tuiles (7040px, 6080px) : aucun objet détecté.
+Tuiles (7360px, 6080px) : aucun objet détecté.
+Tuiles (7680px, 6080px) : aucun objet détecté.
+Tuiles (8000px, 6080px) : aucun objet détecté.
+Tuiles (8320px, 6080px) : 1 book(s).
+Tuiles (8640px, 6080px) : 1 ball(s).
+Tuiles (8960px, 6080px) : 1 ball(s).
+Tuiles (9280px, 6080px) : 1 bench(s).
+Tuiles (960px, 6080px) : 1 stop sign(s).
+Tuiles (9600px, 6080px) : 1 flagpole(s).
+Tuiles (9920px, 6080px) : 1 flagpole(s).
+Tuiles (0px, 6400px) : 1 street light(s).
+Tuiles (10240px, 6400px) : aucun objet détecté.
+Tuiles (10560px, 6400px) : 1 house(s).
+Tuiles (10880px, 6400px) : 1 vent(s).
+Tuiles (11200px, 6400px) : 1 vent(s).
+Tuiles (11520px, 6400px) : 1 chair(s).
+Tuiles (12160px, 6400px) : 2 stairs(s).
+Tuiles (1280px, 6400px) : 1 houseplant(s).
+Tuiles (1600px, 6400px) : 2 car(s).
+Tuiles (1920px, 6400px) : 2 car(s).
+Tuiles (2240px, 6400px) : 1 flagpole(s).
+Tuiles (2560px, 6400px) : 1 crossbar(s).
+Tuiles (2880px, 6400px) : 1 hinge(s).
+Tuiles (320px, 6400px) : 3 suitcase(s).
+Tuiles (3200px, 6400px) : 1 ladder(s).
+Tuiles (3520px, 6400px) : 1 ladder(s).
+Tuiles (3840px, 6400px) : 1 hinge(s).
+Tuiles (4160px, 6400px) : 1 curtain(s).
+Tuiles (4480px, 6400px) : 1 curtain(s).
+Tuiles (4800px, 6400px) : 1 curtain(s).
+Tuiles (5120px, 6400px) : 1 bird(s).
+Tuiles (5440px, 6400px) : 1 frisbee(s).
+Tuiles (5760px, 6400px) : 1 flagpole(s).
+Tuiles (6080px, 6400px) : 1 airplane(s).
+Tuiles (640px, 6400px) : 2 suitcase(s).
+Tuiles (6400px, 6400px) : 1 crossbar(s).
+Tuiles (6720px, 6400px) : aucun objet détecté.
+Tuiles (7040px, 6400px) : 1 apple(s).
+Tuiles (7360px, 6400px) : 1 apple(s).
+Tuiles (7680px, 6400px) : 1 airplane(s).
+Tuiles (8000px, 6400px) : 1 bird(s).
+Tuiles (8320px, 6400px) : 1 bird(s).
+Tuiles (8640px, 6400px) : 1 kite(s).
+Tuiles (8960px, 6400px) : 1 curtain(s).
+Tuiles (9280px, 6400px) : 1 bed(s).
+Tuiles (960px, 6400px) : 1 houseplant(s).
+Tuiles (9600px, 6400px) : 1 window(s).
+Tuiles (9920px, 6400px) : 1 flagpole(s).
+Tuiles (10240px, 640px) : 1 houseplant(s).
+Tuiles (1280px, 640px) : 1 person(s).
+Tuiles (1600px, 640px) : 1 person(s).
+Tuiles (1920px, 640px) : 1 animal(s).
+Tuiles (2240px, 640px) : 1 animal(s).
+Tuiles (2560px, 640px) : 1 door(s).
+Tuiles (2880px, 640px) : 1 door handle(s).
+Tuiles (3200px, 640px) : 1 ball(s).
+Tuiles (3520px, 640px) : 1 ball(s).
+Tuiles (3840px, 640px) : 1 flagpole(s).
+Tuiles (4160px, 640px) : 1 bench(s).
+Tuiles (4480px, 640px) : 1 bench(s).
+Tuiles (4800px, 640px) : 1 chair(s).
+Tuiles (5120px, 640px) : 1 ball(s).
+Tuiles (5440px, 640px) : 1 ball(s).
+Tuiles (5760px, 640px) : 1 street light(s).
+Tuiles (6080px, 640px) : 1 bird(s).
+Tuiles (6400px, 640px) : 1 power plugs and sockets(s).
+Tuiles (6720px, 640px) : 1 house(s).
+Tuiles (7040px, 640px) : 1 book(s).
+Tuiles (7360px, 640px) : 1 insect(s).
+Tuiles (7680px, 640px) : 1 insect(s).
+Tuiles (8000px, 640px) : 1 log(s).
+Tuiles (8320px, 640px) : aucun objet détecté.
+Tuiles (8640px, 640px) : 1 animal(s).
+Tuiles (8960px, 640px) : 1 insect(s).
+Tuiles (9280px, 640px) : 1 flower(s).
+Tuiles (9600px, 640px) : 1 insect(s).
+Tuiles (9920px, 640px) : 1 insect(s).
+Tuiles (0px, 6720px) : aucun objet détecté.
+Tuiles (10240px, 6720px) : 1 animal(s).
+Tuiles (10560px, 6720px) : 1 animal(s).
+Tuiles (10880px, 6720px) : 1 window(s).
+Tuiles (11200px, 6720px) : 1 vent(s).
+Tuiles (11520px, 6720px) : 1 chair(s).
+Tuiles (1280px, 6720px) : 1 car(s).
+Tuiles (1600px, 6720px) : 2 car(s).
+Tuiles (1920px, 6720px) : 2 car(s).
+Tuiles (2240px, 6720px) : 1 vent(s).
+Tuiles (2560px, 6720px) : 1 frisbee(s).
+Tuiles (2880px, 6720px) : 1 frisbee(s).
+Tuiles (320px, 6720px) : 3 suitcase(s).
+Tuiles (3200px, 6720px) : 1 umbrella(s).
+Tuiles (3520px, 6720px) : 1 umbrella(s).
+Tuiles (3840px, 6720px) : 1 hinge(s).
+Tuiles (4160px, 6720px) : 1 curtain(s).
+Tuiles (4480px, 6720px) : 1 curtain(s).
+Tuiles (4800px, 6720px) : 1 curtain(s).
+Tuiles (5120px, 6720px) : 1 person(s).
+Tuiles (5440px, 6720px) : 1 person(s).
+Tuiles (5760px, 6720px) : 1 flagpole(s).
+Tuiles (6080px, 6720px) : 1 flagpole(s).
+Tuiles (640px, 6720px) : 2 suitcase(s).
+Tuiles (6400px, 6720px) : 1 flagpole(s).
+Tuiles (6720px, 6720px) : 1 frisbee(s).
+Tuiles (7040px, 6720px) : 1 apple(s).
+Tuiles (7360px, 6720px) : 1 frisbee(s).
+Tuiles (7680px, 6720px) : 1 crossbar(s).
+Tuiles (8000px, 6720px) : 1 bird(s).
+Tuiles (8320px, 6720px) : 1 bird(s).
+Tuiles (8640px, 6720px) : 1 ladder(s).
+Tuiles (8960px, 6720px) : 1 curtain(s).
+Tuiles (9280px, 6720px) : 1 toilet paper(s).
+Tuiles (960px, 6720px) : 1 flowerpot(s).
+Tuiles (9600px, 6720px) : 1 car(s).
+Tuiles (9920px, 6720px) : 1 flagpole(s).
+Tuiles (0px, 7040px) : 1 house(s).
+Tuiles (10240px, 7040px) : 1 sheep(s).
+Tuiles (10560px, 7040px) : 1 sheep(s).
+Tuiles (10880px, 7040px) : 1 door handle(s).
+Tuiles (11200px, 7040px) : 1 door handle(s).
+Tuiles (11520px, 7040px) : 1 ball(s).
+Tuiles (12160px, 7040px) : 1 kite(s).
+Tuiles (1280px, 7040px) : 1 door handle(s).
+Tuiles (1600px, 7040px) : 1 car(s).
+Tuiles (1920px, 7040px) : 1 car(s).
+Tuiles (2240px, 7040px) : 1 person(s).
+Tuiles (2560px, 7040px) : 1 person(s).
+Tuiles (2880px, 7040px) : 1 bench(s).
+Tuiles (320px, 7040px) : 1 houseplant(s).
+Tuiles (3200px, 7040px) : 1 house(s).
+Tuiles (3520px, 7040px) : 1 house(s).
+Tuiles (3840px, 7040px) : 1 hinge(s).
+Tuiles (4160px, 7040px) : 1 person(s).
+Tuiles (4480px, 7040px) : 1 kite(s), 2 person(s).
+Tuiles (4800px, 7040px) : 1 kite(s).
+Tuiles (5120px, 7040px) : 1 kite(s).
+Tuiles (5440px, 7040px) : 1 person(s).
+Tuiles (5760px, 7040px) : 1 flagpole(s).
+Tuiles (6080px, 7040px) : 1 flagpole(s).
+Tuiles (640px, 7040px) : 1 broccoli(s).
+Tuiles (6400px, 7040px) : 1 flagpole(s).
+Tuiles (6720px, 7040px) : 1 frisbee(s).
+Tuiles (7040px, 7040px) : 1 frisbee(s).
+Tuiles (7360px, 7040px) : 1 frisbee(s).
+Tuiles (7680px, 7040px) : 1 flagpole(s).
+Tuiles (8000px, 7040px) : 1 flagpole(s).
+Tuiles (8320px, 7040px) : 1 ball(s).
+Tuiles (8640px, 7040px) : 1 ladder(s).
+Tuiles (8960px, 7040px) : 1 toilet paper(s).
+Tuiles (9280px, 7040px) : 1 toilet(s).
+Tuiles (960px, 7040px) : 1 door handle(s).
+Tuiles (9600px, 7040px) : 1 car(s).
+Tuiles (9920px, 7040px) : 1 flagpole(s).
+Tuiles (0px, 7360px) : 1 house(s).
+Tuiles (10240px, 7360px) : 1 sheep(s).
+Tuiles (10560px, 7360px) : 1 sheep(s).
+Tuiles (10880px, 7360px) : 1 door handle(s).
+Tuiles (11200px, 7360px) : 1 door handle(s).
+Tuiles (11520px, 7360px) : 1 ball(s).
+Tuiles (1280px, 7360px) : 1 door(s).
+Tuiles (1600px, 7360px) : 1 car(s).
+Tuiles (1920px, 7360px) : 1 car(s).
+Tuiles (2240px, 7360px) : 2 bench(s), 1 person(s).
+Tuiles (2560px, 7360px) : 3 bench(s), 1 person(s).
+Tuiles (2880px, 7360px) : 1 bench(s).
+Tuiles (320px, 7360px) : 1 house(s).
+Tuiles (3200px, 7360px) : 2 house(s).
+Tuiles (3520px, 7360px) : 1 house(s).
+Tuiles (3840px, 7360px) : 1 curtain(s).
+Tuiles (4160px, 7360px) : 2 person(s).
+Tuiles (4480px, 7360px) : 4 person(s).
+Tuiles (4800px, 7360px) : 1 curtain(s), 1 handbag(s).
+Tuiles (5120px, 7360px) : 1 chair(s).
+Tuiles (5440px, 7360px) : 1 windmill(s).
+Tuiles (5760px, 7360px) : 1 frisbee(s).
+Tuiles (6080px, 7360px) : 1 crossbar(s).
+Tuiles (640px, 7360px) : 1 palm tree(s).
+Tuiles (6400px, 7360px) : 1 frisbee(s).
+Tuiles (6720px, 7360px) : aucun objet détecté.
+Tuiles (7040px, 7360px) : aucun objet détecté.
+Tuiles (7360px, 7360px) : aucun objet détecté.
+Tuiles (7680px, 7360px) : 1 crossbar(s).
+Tuiles (8000px, 7360px) : 1 airplane(s).
+Tuiles (8320px, 7360px) : 1 airplane(s).
+Tuiles (8640px, 7360px) : 1 kite(s).
+Tuiles (8960px, 7360px) : 1 refrigerator(s).
+Tuiles (9280px, 7360px) : 1 car(s), 1 ladder(s).
+Tuiles (960px, 7360px) : 1 houseplant(s).
+Tuiles (9600px, 7360px) : 1 ladder(s), 1 stop sign(s).
+Tuiles (9920px, 7360px) : 1 stop sign(s).
+Tuiles (0px, 7680px) : 1 stop sign(s).
+Tuiles (10240px, 7680px) : 1 flower(s).
+Tuiles (10560px, 7680px) : 1 hinge(s).
+Tuiles (10880px, 7680px) : 1 door(s).
+Tuiles (11200px, 7680px) : 1 book(s).
+Tuiles (11520px, 7680px) : 1 ball(s).
+Tuiles (12160px, 7680px) : 1 surfboard(s).
+Tuiles (1280px, 7680px) : 1 houseplant(s).
+Tuiles (1600px, 7680px) : 1 car(s).
+Tuiles (1920px, 7680px) : 1 car(s).
+Tuiles (2240px, 7680px) : 1 bird(s).
+Tuiles (2560px, 7680px) : 1 ladder(s).
+Tuiles (2880px, 7680px) : 1 ladder(s).
+Tuiles (320px, 7680px) : 1 house(s).
+Tuiles (3200px, 7680px) : 1 frisbee(s).
+Tuiles (3520px, 7680px) : 1 frisbee(s).
+Tuiles (3840px, 7680px) : 1 curtain(s).
+Tuiles (4160px, 7680px) : 1 curtain(s), 1 person(s).
+Tuiles (4480px, 7680px) : 1 curtain(s), 4 person(s).
+Tuiles (4800px, 7680px) : 2 chair(s), 1 person(s).
+Tuiles (5120px, 7680px) : 1 chair(s).
+Tuiles (5440px, 7680px) : 1 ball(s).
+Tuiles (5760px, 7680px) : 1 airplane(s).
+Tuiles (6080px, 7680px) : 1 airplane(s).
+Tuiles (640px, 7680px) : 1 palm tree(s).
+Tuiles (6400px, 7680px) : 1 crossbar(s).
+Tuiles (6720px, 7680px) : aucun objet détecté.
+Tuiles (7040px, 7680px) : 1 apple(s).
+Tuiles (7360px, 7680px) : aucun objet détecté.
+Tuiles (7680px, 7680px) : 1 airplane(s).
+Tuiles (8000px, 7680px) : 1 airplane(s).
+Tuiles (8320px, 7680px) : 1 airplane(s).
+Tuiles (8640px, 7680px) : 1 kite(s).
+Tuiles (8960px, 7680px) : 1 bed(s).
+Tuiles (9280px, 7680px) : 1 ladder(s).
+Tuiles (960px, 7680px) : 1 palm tree(s).
+Tuiles (9600px, 7680px) : 1 ladder(s).
+Tuiles (9920px, 7680px) : 1 stop sign(s).
+Tuiles (0px, 8000px) : 1 street sign(s).
+Tuiles (10240px, 8000px) : 1 houseplant(s).
+Tuiles (10560px, 8000px) : 1 ball(s).
+Tuiles (10880px, 8000px) : 1 door handle(s).
+Tuiles (11200px, 8000px) : 1 door handle(s).
+Tuiles (11520px, 8000px) : 1 book(s).
+Tuiles (1280px, 8000px) : 1 cigar(s).
+Tuiles (1600px, 8000px) : 1 insect(s).
+Tuiles (1920px, 8000px) : 1 animal(s).
+Tuiles (2240px, 8000px) : 1 christmas tree(s).
+Tuiles (2560px, 8000px) : 1 bench(s).
+Tuiles (2880px, 8000px) : 1 street light(s).
+Tuiles (320px, 8000px) : 1 stairs(s).
+Tuiles (3200px, 8000px) : 1 house(s).
+Tuiles (3520px, 8000px) : 1 stop sign(s).
+Tuiles (3840px, 8000px) : 1 window blind(s).
+Tuiles (4160px, 8000px) : 1 hinge(s).
+Tuiles (4480px, 8000px) : 1 bird(s).
+Tuiles (4800px, 8000px) : 2 person(s).
+Tuiles (5120px, 8000px) : 2 kite(s), 1 person(s).
+Tuiles (5440px, 8000px) : 1 person(s).
+Tuiles (5760px, 8000px) : aucun objet détecté.
+Tuiles (6080px, 8000px) : aucun objet détecté.
+Tuiles (640px, 8000px) : 1 christmas tree(s).
+Tuiles (6400px, 8000px) : aucun objet détecté.
+Tuiles (6720px, 8000px) : aucun objet détecté.
+Tuiles (7040px, 8000px) : aucun objet détecté.
+Tuiles (7360px, 8000px) : aucun objet détecté.
+Tuiles (7680px, 8000px) : aucun objet détecté.
+Tuiles (8000px, 8000px) : aucun objet détecté.
+Tuiles (8320px, 8000px) : 1 book(s).
+Tuiles (8640px, 8000px) : 1 train(s).
+Tuiles (8960px, 8000px) : 1 curtain(s).
+Tuiles (9280px, 8000px) : 1 bed(s).
+Tuiles (960px, 8000px) : 1 houseplant(s).
+Tuiles (9600px, 8000px) : 1 window(s).
+Tuiles (9920px, 8000px) : 1 maple(s).
+Tuiles (0px, 8320px) : 1 street light(s).
+Tuiles (10240px, 8320px) : 1 houseplant(s).
+Tuiles (10560px, 8320px) : 1 houseplant(s).
+Tuiles (10880px, 8320px) : 1 door handle(s).
+Tuiles (11200px, 8320px) : 1 door handle(s).
+Tuiles (11520px, 8320px) : 1 chair(s).
+Tuiles (12160px, 8320px) : 1 tennis racket(s).
+Tuiles (1280px, 8320px) : 1 cigar(s).
+Tuiles (1600px, 8320px) : 1 houseplant(s).
+Tuiles (1920px, 8320px) : aucun objet détecté.
+Tuiles (2240px, 8320px) : aucun objet détecté.
+Tuiles (2560px, 8320px) : 1 manhole(s).
+Tuiles (2880px, 8320px) : 1 ladder(s).
+Tuiles (320px, 8320px) : 1 houseplant(s).
+Tuiles (3200px, 8320px) : 1 house(s).
+Tuiles (3520px, 8320px) : 1 house(s).
+Tuiles (3840px, 8320px) : 1 window(s).
+Tuiles (4160px, 8320px) : 1 chair(s).
+Tuiles (4480px, 8320px) : 1 chair(s).
+Tuiles (4800px, 8320px) : 1 kite(s).
+Tuiles (5120px, 8320px) : 3 kite(s).
+Tuiles (5440px, 8320px) : 1 bird(s).
+Tuiles (5760px, 8320px) : 1 flagpole(s).
+Tuiles (6080px, 8320px) : 1 flagpole(s).
+Tuiles (640px, 8320px) : aucun objet détecté.
+Tuiles (6400px, 8320px) : 1 flagpole(s).
+Tuiles (6720px, 8320px) : 1 tennis racket(s).
+Tuiles (7040px, 8320px) : 1 frisbee(s).
+Tuiles (7360px, 8320px) : 1 frisbee(s).
+Tuiles (7680px, 8320px) : 1 flagpole(s).
+Tuiles (8000px, 8320px) : 1 flagpole(s).
+Tuiles (8320px, 8320px) : 1 flagpole(s).
+Tuiles (8640px, 8320px) : 1 kite(s).
+Tuiles (8960px, 8320px) : 1 book(s).
+Tuiles (9280px, 8320px) : 1 log(s).
+Tuiles (960px, 8320px) : 1 houseplant(s).
+Tuiles (9600px, 8320px) : 1 log(s).
+Tuiles (9920px, 8320px) : 1 maple(s).
+Tuiles (0px, 8640px) : 2 flower(s).
+Tuiles (10240px, 8640px) : 1 willow(s).
+Tuiles (10560px, 8640px) : 1 house(s).
+Tuiles (10880px, 8640px) : 1 manhole(s).
+Tuiles (11200px, 8640px) : 1 clock(s).
+Tuiles (11520px, 8640px) : 1 power plugs and sockets(s).
+Tuiles (1280px, 8640px) : aucun objet détecté.
+Tuiles (1600px, 8640px) : 1 nail(s).
+Tuiles (1920px, 8640px) : 1 car(s), 1 taillight(s).
+Tuiles (2240px, 8640px) : 1 car(s), 2 taillight(s).
+Tuiles (2560px, 8640px) : 1 toilet(s).
+Tuiles (2880px, 8640px) : 1 toilet(s).
+Tuiles (320px, 8640px) : 2 flower(s).
+Tuiles (3200px, 8640px) : 1 window(s).
+Tuiles (3520px, 8640px) : 1 house(s).
+Tuiles (3840px, 8640px) : 1 house(s).
+Tuiles (4160px, 8640px) : 3 window(s).
+Tuiles (4480px, 8640px) : 1 chair(s).
+Tuiles (4800px, 8640px) : 1 kite(s).
+Tuiles (5120px, 8640px) : 1 kite(s).
+Tuiles (5440px, 8640px) : 1 person(s).
+Tuiles (5760px, 8640px) : 1 flagpole(s).
+Tuiles (6080px, 8640px) : 1 flagpole(s).
+Tuiles (640px, 8640px) : aucun objet détecté.
+Tuiles (6400px, 8640px) : 1 flagpole(s).
+Tuiles (6720px, 8640px) : 1 tennis racket(s).
+Tuiles (7040px, 8640px) : 1 frisbee(s).
+Tuiles (7360px, 8640px) : 1 frisbee(s).
+Tuiles (7680px, 8640px) : 1 ball(s).
+Tuiles (8000px, 8640px) : 1 kite(s).
+Tuiles (8320px, 8640px) : 1 ball(s).
+Tuiles (8640px, 8640px) : 1 kite(s).
+Tuiles (8960px, 8640px) : 1 curtain(s).
+Tuiles (9280px, 8640px) : 1 curtain(s).
+Tuiles (960px, 8640px) : 1 houseplant(s).
+Tuiles (9600px, 8640px) : 1 log(s).
+Tuiles (9920px, 8640px) : aucun objet détecté.
+Tuiles (0px, 8960px) : 2 flower(s).
+Tuiles (10240px, 8960px) : 1 trash bin/can(s).
+Tuiles (10560px, 8960px) : 1 manhole(s).
+Tuiles (10880px, 8960px) : 1 manhole(s).
+Tuiles (11200px, 8960px) : 1 book(s).
+Tuiles (11520px, 8960px) : 1 power plugs and sockets(s).
+Tuiles (12160px, 8960px) : 1 car(s).
+Tuiles (1280px, 8960px) : aucun objet détecté.
+Tuiles (1600px, 8960px) : 1 house(s).
+Tuiles (1920px, 8960px) : 1 car(s), 1 taillight(s).
+Tuiles (2240px, 8960px) : 1 car(s).
+Tuiles (2560px, 8960px) : 1 toilet(s).
+Tuiles (2880px, 8960px) : 1 toilet paper(s).
+Tuiles (320px, 8960px) : 2 flower(s).
+Tuiles (3200px, 8960px) : 1 window(s).
+Tuiles (3520px, 8960px) : 1 bench(s).
+Tuiles (3840px, 8960px) : 1 door handle(s), 1 window(s).
+Tuiles (4160px, 8960px) : 3 window(s).
+Tuiles (4480px, 8960px) : 1 curtain(s).
+Tuiles (4800px, 8960px) : 1 painting(s).
+Tuiles (5120px, 8960px) : 1 person(s).
+Tuiles (5440px, 8960px) : 1 person(s).
+Tuiles (5760px, 8960px) : 1 frisbee(s).
+Tuiles (6080px, 8960px) : 1 flagpole(s).
+Tuiles (640px, 8960px) : 1 houseplant(s).
+Tuiles (6400px, 8960px) : 1 flagpole(s).
+Tuiles (6720px, 8960px) : aucun objet détecté.
+Tuiles (7040px, 8960px) : aucun objet détecté.
+Tuiles (7360px, 8960px) : aucun objet détecté.
+Tuiles (7680px, 8960px) : 1 kite(s).
+Tuiles (8000px, 8960px) : 1 kite(s).
+Tuiles (8320px, 8960px) : 1 flagpole(s).
+Tuiles (8640px, 8960px) : 1 truck(s).
+Tuiles (8960px, 8960px) : 1 book(s).
+Tuiles (9280px, 8960px) : 1 toilet paper(s).
+Tuiles (960px, 8960px) : 1 houseplant(s).
+Tuiles (9600px, 8960px) : 1 power plugs and sockets(s).
+Tuiles (9920px, 8960px) : 1 toilet(s).
+Tuiles (10240px, 9280px) : 1 trash bin/can(s).
+Tuiles (10560px, 9280px) : 1 trash bin/can(s).
+Tuiles (10880px, 9280px) : 1 refrigerator(s).
+Tuiles (11200px, 9280px) : 1 car(s).
+Tuiles (11520px, 9280px) : 1 book(s), 1 suitcase(s).
+Tuiles (1280px, 9280px) : aucun objet détecté.
+Tuiles (1600px, 9280px) : 1 houseplant(s).
+Tuiles (1920px, 9280px) : 1 houseplant(s).
+Tuiles (2240px, 9280px) : 1 stairs(s).
+Tuiles (2560px, 9280px) : 1 mobile phone(s).
+Tuiles (2880px, 9280px) : 1 window(s).
+Tuiles (3200px, 9280px) : 1 airplane(s).
+Tuiles (3520px, 9280px) : 1 bench(s).
+Tuiles (3840px, 9280px) : 1 house(s).
+Tuiles (4160px, 9280px) : 1 door(s).
+Tuiles (4480px, 9280px) : 1 bird(s).
+Tuiles (4800px, 9280px) : 1 bird(s).
+Tuiles (5120px, 9280px) : 1 person(s).
+Tuiles (5440px, 9280px) : 1 person(s).
+Tuiles (5760px, 9280px) : 1 frisbee(s).
+Tuiles (6080px, 9280px) : 1 frisbee(s).
+Tuiles (640px, 9280px) : 1 houseplant(s).
+Tuiles (6400px, 9280px) : 1 frisbee(s).
+Tuiles (6720px, 9280px) : 1 flagpole(s).
+Tuiles (7040px, 9280px) : 1 crossbar(s).
+Tuiles (7360px, 9280px) : 1 flagpole(s).
+Tuiles (7680px, 9280px) : 1 frisbee(s).
+Tuiles (8000px, 9280px) : 1 ball(s).
+Tuiles (8320px, 9280px) : 1 ball(s).
+Tuiles (8640px, 9280px) : 1 kite(s).
+Tuiles (8960px, 9280px) : 1 surfboard(s).
+Tuiles (9280px, 9280px) : 1 person(s).
+Tuiles (960px, 9280px) : 1 bench(s).
+Tuiles (9600px, 9280px) : 1 person(s).
+Tuiles (9920px, 9280px) : 1 trash bin/can(s).
+Tuiles (10240px, 9600px) : 1 drinking straw(s).
+Tuiles (10560px, 9600px) : 1 tarp(s).
+Tuiles (10880px, 9600px) : 1 street sign(s).
+Tuiles (11200px, 9600px) : 1 window(s).
+Tuiles (11520px, 9600px) : 1 car(s), 1 footwear(s).
+Tuiles (1280px, 9600px) : aucun objet détecté.
+Tuiles (1600px, 9600px) : aucun objet détecté.
+Tuiles (1920px, 9600px) : 1 animal(s).
+Tuiles (2240px, 9600px) : 1 houseplant(s).
+Tuiles (2560px, 9600px) : 1 nail(s).
+Tuiles (2880px, 9600px) : 1 bird(s).
+Tuiles (3200px, 9600px) : 1 bird(s).
+Tuiles (3520px, 9600px) : 1 bench(s).
+Tuiles (3840px, 9600px) : 1 toilet(s).
+Tuiles (4160px, 9600px) : 1 door(s).
+Tuiles (4480px, 9600px) : 1 bed(s).
+Tuiles (4800px, 9600px) : 1 bed(s).
+Tuiles (5120px, 9600px) : 1 bench(s).
+Tuiles (5440px, 9600px) : 1 clock(s).
+Tuiles (5760px, 9600px) : 1 ball(s).
+Tuiles (6080px, 9600px) : 1 frisbee(s).
+Tuiles (640px, 9600px) : 1 houseplant(s).
+Tuiles (6400px, 9600px) : 1 bird(s).
+Tuiles (6720px, 9600px) : 1 baseball bat(s).
+Tuiles (7040px, 9600px) : 1 ball(s).
+Tuiles (7360px, 9600px) : 1 kite(s).
+Tuiles (7680px, 9600px) : 1 frisbee(s).
+Tuiles (8000px, 9600px) : 1 person(s).
+Tuiles (8320px, 9600px) : 1 person(s).
+Tuiles (8640px, 9600px) : 1 kite(s).
+Tuiles (8960px, 9600px) : 1 surfboard(s).
+Tuiles (9280px, 9600px) : 1 person(s).
+Tuiles (960px, 9600px) : 1 bird(s).
+Tuiles (9600px, 9600px) : 1 person(s).
+Tuiles (9920px, 9600px) : 1 drinking straw(s).
+Tuiles (10240px, 960px) : 1 flower(s).
+Tuiles (10560px, 960px) : 1 flower(s).
+Tuiles (1280px, 960px) : 1 mobile phone(s).
+Tuiles (1600px, 960px) : 1 person(s).
+Tuiles (1920px, 960px) : 1 person(s).
+Tuiles (2240px, 960px) : 1 window(s).
+Tuiles (2560px, 960px) : 1 window(s).
+Tuiles (2880px, 960px) : 1 ball(s).
+Tuiles (3200px, 960px) : 1 bird(s).
+Tuiles (3520px, 960px) : 1 bird(s).
+Tuiles (3840px, 960px) : 1 bird(s).
+Tuiles (4160px, 960px) : 1 ball(s).
+Tuiles (4480px, 960px) : 1 ball(s).
+Tuiles (4800px, 960px) : 1 chair(s).
+Tuiles (5120px, 960px) : 1 tag(s).
+Tuiles (5440px, 960px) : 1 support hose(s).
+Tuiles (5760px, 960px) : 1 support hose(s).
+Tuiles (6080px, 960px) : 2 power plugs and sockets(s).
+Tuiles (6400px, 960px) : 2 power plugs and sockets(s).
+Tuiles (6720px, 960px) : 1 house(s).
+Tuiles (7040px, 960px) : 1 houseplant(s).
+Tuiles (7360px, 960px) : aucun objet détecté.
+Tuiles (7680px, 960px) : 1 christmas tree(s).
+Tuiles (8000px, 960px) : aucun objet détecté.
+Tuiles (8320px, 960px) : 1 houseplant(s).
+Tuiles (8640px, 960px) : 1 houseplant(s).
+Tuiles (8960px, 960px) : 1 insect(s).
+Tuiles (9280px, 960px) : 1 flower(s).
+Tuiles (960px, 960px) : 1 toilet(s).
+Tuiles (9600px, 960px) : 1 insect(s).
+Tuiles (9920px, 960px) : 1 insect(s).
+Tuiles (10240px, 9920px) : 1 toilet(s).
+Tuiles (10560px, 9920px) : 1 flagpole(s).
+Tuiles (10880px, 9920px) : 1 log(s).
+Tuiles (11200px, 9920px) : 1 window(s).
+Tuiles (11520px, 9920px) : 1 window(s).
+Tuiles (1280px, 9920px) : aucun objet détecté.
+Tuiles (1600px, 9920px) : 1 flower(s).
+Tuiles (1920px, 9920px) : 1 houseplant(s).
+Tuiles (2240px, 9920px) : 1 insect(s).
+Tuiles (2560px, 9920px) : 1 nail(s).
+Tuiles (2880px, 9920px) : 1 wheelchair(s).
+Tuiles (3200px, 9920px) : 1 wheelchair(s).
+Tuiles (3520px, 9920px) : 1 clock(s).
+Tuiles (3840px, 9920px) : 1 toilet(s).
+Tuiles (4160px, 9920px) : 1 boat(s).
+Tuiles (4480px, 9920px) : 1 boat(s).
+Tuiles (4800px, 9920px) : 1 bed(s).
+Tuiles (5120px, 9920px) : 1 bench(s).
+Tuiles (5440px, 9920px) : 1 bench(s).
+Tuiles (5760px, 9920px) : 1 sheep(s).
+Tuiles (6080px, 9920px) : 1 bird(s).
+Tuiles (6400px, 9920px) : 1 bird(s).
+Tuiles (6720px, 9920px) : 1 bird(s).
+Tuiles (7040px, 9920px) : 1 tag(s).
+Tuiles (7360px, 9920px) : 1 bathtub(s).
+Tuiles (7680px, 9920px) : 1 bird(s).
+Tuiles (8000px, 9920px) : 1 person(s).
+Tuiles (8320px, 9920px) : 1 person(s).
+Tuiles (8640px, 9920px) : 1 kite(s).
+Tuiles (8960px, 9920px) : 1 surfboard(s).
+Tuiles (9280px, 9920px) : 1 street sign(s).
+Tuiles (960px, 9920px) : 1 bird(s).
+Tuiles (9600px, 9920px) : 1 houseplant(s).
+Tuiles (9920px, 9920px) : 1 toilet paper(s).
